@@ -1,0 +1,8 @@
+﻿student_id,student_name,age,major,city,gpa,attendance,status,course_count,avg_score,performance_level,attendance_status,source,html_gpa,html_attendance,mongo_gpa,mongo_attendance
+1001,Ahmed Ali,21,Computer Science,Sanaa,3.45,92.0,Active,2,87.5,Very Good,Good,CSV+API+DATABASE+HTML+MONGO,3.6,92,3.5,90
+1002,Sara Mohammed,22,Artificial Intelligence,Aden,3.1,88.0,Active,2,89.5,Very Good,Good,CSV+API+DATABASE+HTML+MONGO,3.7,96,3.8,95
+1003,Omar Hassan,20,Information Systems,Taiz,2.8,72.0,Active,2,79.0,Good,Low,CSV+API+DATABASE+HTML+MONGO,2.7,78,2.7,78
+1004,Fatima Saleh,19,Data Science,Sanaa,3.0,91.0,Active,1,95.0,Very Good,Good,CSV+API+DATABASE+HTML+MONGO,3.2,85,,
+1005,Ali Salem,24,Computer Science,Aden,3.7,80.71,Active,2,91.0,Excellent,Good,CSV+API+DATABASE+HTML+MONGO,,,,
+1009,Rami Ali,22,Ai,Unknown,2.9,82.0,Active,1,90.0,Good,Good,CSV+API+DATABASE+HTML+MONGO,,,,
+1010,Huda Mohammed,23,Computer Science,Aden,1.8,60.0,Suspended,1,60.0,At Risk,Low,CSV+API+DATABASE+HTML+MONGO,,,,

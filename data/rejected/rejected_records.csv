@@ -1,0 +1,11 @@
+﻿source,student_id,error_reason,raw_data
+CSV,1007.0,Invalid Age,student_id=1007.0; student_name=Khaled Nasser; age=15.0; major=Artificial Intelligence; city=Sanaa
+CSV,1008.0,Duplicate student_id,student_id=1008.0; student_name=Noor Ahmed; age=25.0; major=information systems; city= SANAA 
+CSV,,Missing student_id,student_id=nan; student_name=No ID; age=21.0; major=AI; city=Sanaa
+API,1006,Invalid Attendance,student_id=1006; gpa=3.2; attendance=-5.0; status=Active
+API,1007,Invalid GPA,student_id=1007; gpa=4.5; attendance=90.0; status=Active
+API,1008,Invalid GPA,student_id=1008; gpa=4.2; attendance=86.0; status=Active
+API,1002,Duplicate student_id,student_id=1002; gpa=3.1; attendance=88.0; status=active
+DATABASE,1006,Invalid Score,student_id=1006; course_id=2; course_name=Database Systems; credit_hours=3; semester=2026-1; score=105.0
+DATABASE,1002,Duplicate record,student_id=1002; course_id=4; course_name=AI Fundamentals; credit_hours=4; semester=2026-1; score=88.0
+HTML,1005,Invalid GPA; Invalid Attendance,student_id=1005; gpa=4.1; attendance=102

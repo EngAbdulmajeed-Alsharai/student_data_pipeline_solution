@@ -1,0 +1,146 @@
+2026-09-26 22:39:16,278 INFO CSV extraction started
+2026-09-26 22:39:16,281 INFO CSV records: 12
+2026-09-26 22:39:16,281 INFO API extraction started
+2026-09-26 22:39:16,284 INFO API records: 12
+2026-09-26 22:39:16,284 INFO Database extraction started
+2026-09-26 22:39:16,286 INFO Database records: 15
+2026-09-26 22:39:16,286 INFO Source validation started
+2026-09-26 22:39:16,290 INFO CSV validation issues: 3
+2026-09-26 22:39:16,290 INFO API validation issues: 4
+2026-09-26 22:39:16,290 INFO Database validation issues: 6
+2026-09-26 22:39:16,290 INFO Cleaning started
+2026-09-26 22:39:16,298 INFO CSV clean records: 9
+2026-09-26 22:39:16,299 INFO API clean records: 8
+2026-09-26 22:39:16,299 INFO Database clean records: 9
+2026-09-26 22:39:16,299 INFO Integration started
+2026-09-26 22:39:16,304 INFO Integrated records: 7
+2026-09-26 22:39:16,305 INFO Transformation started
+2026-09-26 22:39:16,307 INFO Final validation started
+2026-09-26 22:39:16,309 INFO Final validation issues: 0
+2026-09-26 22:39:16,309 INFO Valid records: 7
+2026-09-26 22:39:16,311 INFO Final dataset created
+2026-09-26 22:39:16,311 INFO PIPELINE EXECUTION SUMMARY
+2026-09-26 22:39:16,311 INFO CSV Records: 12
+2026-09-26 22:39:16,311 INFO API Records: 12
+2026-09-26 22:39:16,311 INFO Database Records: 15
+2026-09-26 22:39:16,311 INFO Integrated Records: 7
+2026-09-26 22:39:16,311 INFO Valid Records: 7
+2026-09-26 22:39:16,311 INFO Rejected Records: 13
+2026-09-26 22:39:16,311 INFO Duplicate Records: 0
+2026-09-26 22:39:16,311 INFO Missing Values After Cleaning: 0
+2026-09-26 22:39:16,311 INFO Processing Time: 0.03 seconds
+2026-09-26 22:40:15,861 INFO CSV extraction started
+2026-09-26 22:40:15,864 INFO CSV records: 12
+2026-09-26 22:40:15,864 INFO API extraction started
+2026-09-26 22:40:15,866 INFO API records: 12
+2026-09-26 22:40:15,866 INFO Database extraction started
+2026-09-26 22:40:15,867 INFO Database records: 15
+2026-09-26 22:40:15,867 INFO Source validation started
+2026-09-26 22:40:15,871 INFO CSV validation issues: 3
+2026-09-26 22:40:15,871 INFO API validation issues: 4
+2026-09-26 22:40:15,871 INFO Database validation issues: 6
+2026-09-26 22:40:15,871 INFO Cleaning started
+2026-09-26 22:40:15,878 INFO CSV clean records: 9
+2026-09-26 22:40:15,878 INFO API clean records: 8
+2026-09-26 22:40:15,878 INFO Database clean records: 9
+2026-09-26 22:40:15,878 INFO Integration started
+2026-09-26 22:40:15,883 INFO Integrated records: 7
+2026-09-26 22:40:15,883 INFO Transformation started
+2026-09-26 22:40:15,886 INFO Final validation started
+2026-09-26 22:40:15,888 INFO Final validation issues: 0
+2026-09-26 22:40:15,888 INFO Valid records: 7
+2026-09-26 22:40:15,889 INFO Final dataset created
+2026-09-26 22:40:15,889 INFO PIPELINE EXECUTION SUMMARY
+2026-09-26 22:40:15,889 INFO CSV Records: 12
+2026-09-26 22:40:15,889 INFO API Records: 12
+2026-09-26 22:40:15,890 INFO Database Records: 15
+2026-09-26 22:40:15,890 INFO Integrated Records: 7
+2026-09-26 22:40:15,890 INFO Valid Records: 7
+2026-09-26 22:40:15,890 INFO Rejected Records: 13
+2026-09-26 22:40:15,890 INFO Duplicate Records: 0
+2026-09-26 22:40:15,890 INFO Missing Values After Cleaning: 0
+2026-09-26 22:40:15,890 INFO Processing Time: 0.03 seconds
+2026-09-26 22:40:27,198 INFO CSV extraction started
+2026-09-26 22:40:27,201 INFO CSV records: 12
+2026-09-26 22:40:27,201 INFO API extraction started
+2026-09-26 22:40:27,203 INFO API records: 12
+2026-09-26 22:40:27,203 INFO Database extraction started
+2026-09-26 22:40:27,204 INFO Database records: 15
+2026-09-26 22:40:27,204 INFO Source validation started
+2026-09-26 22:40:27,209 INFO CSV validation issues: 3
+2026-09-26 22:40:27,209 INFO API validation issues: 4
+2026-09-26 22:40:27,209 INFO Database validation issues: 1
+2026-09-26 22:40:27,209 INFO Cleaning started
+2026-09-26 22:40:40,298 INFO CSV extraction started
+2026-09-26 22:40:40,300 INFO CSV records: 12
+2026-09-26 22:40:40,300 INFO API extraction started
+2026-09-26 22:40:40,303 INFO API records: 12
+2026-09-26 22:40:40,303 INFO Database extraction started
+2026-09-26 22:40:40,304 INFO Database records: 15
+2026-09-26 22:40:40,304 INFO Source validation started
+2026-09-26 22:40:40,308 INFO CSV validation issues: 3
+2026-09-26 22:40:40,308 INFO API validation issues: 4
+2026-09-26 22:40:40,308 INFO Database validation issues: 1
+2026-09-26 22:40:40,308 INFO Cleaning started
+2026-09-26 22:40:40,318 INFO CSV clean records: 9
+2026-09-26 22:40:40,318 INFO API clean records: 8
+2026-09-26 22:40:40,318 INFO Database clean records: 13
+2026-09-26 22:40:40,318 INFO Integration started
+2026-09-26 22:40:40,323 INFO Integrated records: 7
+2026-09-26 22:40:40,323 INFO Transformation started
+2026-09-26 22:40:40,325 INFO Final validation started
+2026-09-26 22:40:40,327 INFO Final validation issues: 0
+2026-09-26 22:40:40,327 INFO Valid records: 7
+2026-09-26 22:40:40,329 INFO Final dataset created
+2026-09-26 22:40:40,329 INFO PIPELINE EXECUTION SUMMARY
+2026-09-26 22:40:40,329 INFO CSV Records: 12
+2026-09-26 22:40:40,330 INFO API Records: 12
+2026-09-26 22:40:40,330 INFO Database Records: 15
+2026-09-26 22:40:40,330 INFO Integrated Records: 7
+2026-09-26 22:40:40,330 INFO Valid Records: 7
+2026-09-26 22:40:40,330 INFO Rejected Records: 9
+2026-09-26 22:40:40,330 INFO Duplicate Records: 3
+2026-09-26 22:40:40,330 INFO Missing Values After Cleaning: 0
+2026-09-26 22:40:40,330 INFO Processing Time: 0.03 seconds
+2026-10-05 17:19:57,086 INFO CSV extraction started
+2026-10-05 17:19:57,089 INFO CSV records: 12
+2026-10-05 17:19:57,090 INFO API extraction started
+2026-10-05 17:19:57,098 INFO API records: 12
+2026-10-05 17:19:57,098 INFO Database extraction started
+2026-10-05 17:19:57,101 INFO Database records: 15
+2026-10-05 17:19:57,101 INFO HTML extraction started
+2026-10-05 17:19:57,105 INFO HTML records: 6
+2026-10-05 17:19:57,105 INFO MongoDB extraction started
+2026-10-05 17:19:57,133 INFO MongoDB records: 3
+2026-10-05 17:19:57,134 INFO Source validation started
+2026-10-05 17:19:57,153 INFO CSV validation issues: 3
+2026-10-05 17:19:57,153 INFO API validation issues: 4
+2026-10-05 17:19:57,153 INFO Database validation issues: 1
+2026-10-05 17:19:57,154 INFO HTML validation issues: 2
+2026-10-05 17:19:57,154 INFO MongoDB validation issues: 0
+2026-10-05 17:19:57,154 INFO Cleaning started
+2026-10-05 17:19:57,182 INFO CSV clean records: 9
+2026-10-05 17:19:57,183 INFO API clean records: 8
+2026-10-05 17:19:57,183 INFO Database clean records: 13
+2026-10-05 17:19:57,183 INFO HTML clean records: 5
+2026-10-05 17:19:57,183 INFO MongoDB clean records: 3
+2026-10-05 17:19:57,184 INFO Integration started
+2026-10-05 17:19:57,203 INFO Integrated records: 7
+2026-10-05 17:19:57,204 INFO Transformation started
+2026-10-05 17:19:57,210 INFO Final validation started
+2026-10-05 17:19:57,214 INFO Final validation issues: 0
+2026-10-05 17:19:57,214 INFO Valid records: 7
+2026-10-05 17:19:57,328 INFO Final dataset created
+2026-10-05 17:19:57,328 INFO PIPELINE EXECUTION SUMMARY
+2026-10-05 17:19:57,329 INFO CSV Records: 12
+2026-10-05 17:19:57,329 INFO API Records: 12
+2026-10-05 17:19:57,330 INFO Database Records: 15
+2026-10-05 17:19:57,330 INFO HTML Records: 6
+2026-10-05 17:19:57,331 INFO MongoDB Source Records: 3
+2026-10-05 17:19:57,331 INFO MongoDB Final Records Saved: 7
+2026-10-05 17:19:57,332 INFO Integrated Records: 7
+2026-10-05 17:19:57,332 INFO Valid Records: 7
+2026-10-05 17:19:57,333 INFO Rejected Records: 10
+2026-10-05 17:19:57,333 INFO Duplicate Records: 3
+2026-10-05 17:19:57,334 INFO Missing Values After Cleaning: 0
+2026-10-05 17:19:57,334 INFO Processing Time: 0.24 seconds
