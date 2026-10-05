@@ -5,3 +5,4 @@ __pycache__/
 *.py[cod]
 *.pyo
 "@ | Set-Content .gitignore
+GUIDE_AR.md
